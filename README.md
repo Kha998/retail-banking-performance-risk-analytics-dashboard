@@ -51,6 +51,9 @@
     - Loan details
     - Credit risk indicators
     - Fraud-related transaction flags
+    DataSource >> https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/data
+                  https://www.kaggle.com/code/faryalrifaz3374/loan-default-predictio-ml-models-eda/input
+                  https://www.kaggle.com/code/abdelazizelserty/credit-card-fraud-detection-dataset/input
 
     These datasets were integrated to support end-to-end business and risk analysis.
 
