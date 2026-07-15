@@ -37,7 +37,6 @@
     - Support data-driven business strategy
   
 ## Tools & Technologies
-    - SQL – data extraction, joins, filtering, KPI analysis
     - Power BI – dashboard development and interactive visualization
     - Power Query – data cleaning and transformation
     - DAX – KPI calculations and business measures
