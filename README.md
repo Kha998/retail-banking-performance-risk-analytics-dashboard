@@ -1,12 +1,9 @@
 # Banking Business Performance & Risk Analytics Dashboard
-## Business Scenario
- The business problem was that banking managers had customer, loan, and transaction data, making it difficult to monitor customer behavior, credit risk, fraud indicators, and overall business  performance in one place.
- 	Senior management requires a centralized analytics system to effectively monitor:
- 	business performance 
- 	customer behavior 
- 	credit risk 
- 	fraud activities 
- 	However, the bank currently lacks an integrated platform to provide a unified view of these key areas, making it difficult to generate timely insights and support strategic decision-making.
+## Executive Summary
+
+    The Retail Banking Performance Analytics Dashboard is an interactive Business Intelligence solution developed using Power BI to provide a comprehensive view of banking operations. The dashboard integrates customer, transaction, loan, deposit, and fraud data into a centralized reporting system, enabling stakeholders to monitor business performance, understand customer behavior, identify fraud risks, and evaluate loan portfolio performance.
+    
+    The project demonstrates how business intelligence can transform raw banking data into actionable insights that support strategic and operational decision-making.
 
 
 ## Project Overview
