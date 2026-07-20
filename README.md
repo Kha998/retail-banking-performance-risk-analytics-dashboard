@@ -1,6 +1,6 @@
 # Banking Business Performance & Risk Analytics Dashboard
 ## Business Scenario
- 	A retail bank manages millions of customer accounts, loan products, and financial transactions across multiple physical locations and digital channels.
+ The business problem was that banking managers had customer, loan, and transaction data, making it difficult to monitor customer behavior, credit risk, fraud indicators, and overall business  performance in one place.
  	Senior management requires a centralized analytics system to effectively monitor:
  	business performance 
  	customer behavior 
@@ -10,7 +10,7 @@
 
 
 ## Project Overview
- 	A complete end-to-end data analysis project focuses on developing a Retail Banking Performance Analytics Dashboard using SQL, Power BI. This project built a Power BI dashboard integrating customer, transaction, and loan data to provide insights into customer segmentation, credit risk, fraud detection, and overall business performance.
+ 	Developed end-to-end data analysis project focuses on developing a Retail Banking Performance Analytics Dashboard using SQL, Power BI. This project built a Power BI dashboard integrating customer, transaction, and loan data to provide insights into customer segmentation, credit risk, fraud detection, and overall business performance.
  	This project showcases data cleaning, transformation, data modelling and visualization skills across multiple tools to extract valuable business insights
  	The dashboard enables:
  	customer segmentation analysis 
