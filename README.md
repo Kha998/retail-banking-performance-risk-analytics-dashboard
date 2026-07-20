@@ -125,10 +125,10 @@ Provide personalized financial products for the bank's largest customer segments
 Continuously monitor fraud trends and loan performance using the interactive dashboards. 
 
 ## Repository Structure
-Retail-Banking-Performance--Risk-Analytics-dashboard/
-│
-├── README.md
-├── Retail_Banking_Analysis_Dashboard.pbix
-├── Data/
-├── Images/
-└── Business_Report.pdf
+    Retail-Banking-Performance--Risk-Analytics-dashboard/
+    │
+    ├── README.md
+    ├── Retail_Banking_Analysis_Dashboard.pbix
+    ├── Data/
+    ├── Images/
+    └── Business_Report.pdf
