@@ -33,12 +33,12 @@ Provide decision-makers with meaningful business insights through interactive vi
 
 ## Business Questions:
 This project addresses the following key business questions:
-     •	How is the overall performance of the bank in terms of customers, transactions, and revenue? 
-     •	Which customer segments contribute most to business growth? 
-     •	What is the level of credit risk and which customers are likely to default? 
-     •	What are the patterns and drivers of fraudulent transactions? 
-     •	How can the bank increase customer value and product adoption? 
-     •	How can data-driven insights improve decision-making and operational efficiency?
+         •	How is the overall performance of the bank in terms of customers, transactions, and revenue? 
+         •	Which customer segments contribute most to business growth? 
+         •	What is the level of credit risk and which customers are likely to default? 
+         •	What are the patterns and drivers of fraudulent transactions? 
+         •	How can the bank increase customer value and product adoption? 
+         •	How can data-driven insights improve decision-making and operational efficiency?
 
 
   
@@ -54,14 +54,14 @@ This project addresses the following key business questions:
 
 The project combines multiple banking-related data domains, including:
     
- - Customer information
- - Transaction records
-- Loan details
-- Credit risk indicators
-- Fraud-related transaction flags
-    DataSource >> https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/data
-                  https://www.kaggle.com/code/faryalrifaz3374/loan-default-predictio-ml-models-eda/input
-                  https://www.kaggle.com/code/abdelazizelserty/credit-card-fraud-detection-dataset/input
+     - Customer information
+     - Transaction records
+    - Loan details
+    - Credit risk indicators
+    - Fraud-related transaction flags
+                DataSource >> https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/data
+                              https://www.kaggle.com/code/faryalrifaz3374/loan-default-predictio-ml-models-eda/input
+                              https://www.kaggle.com/code/abdelazizelserty/credit-card-fraud-detection-dataset/input
 
     These datasets were integrated to support end-to-end business and risk analysis.
 
@@ -105,24 +105,24 @@ Overall fraud activity remains relatively low, indicating stable operational per
 
  This project successfully demonstrates the application of Business Intelligence techniques to transform banking data into meaningful insights.
 
-The dashboard provides a centralized reporting solution that enables stakeholders to:
+    The dashboard provides a centralized reporting solution that enables stakeholders to:
 
-Monitor business performance.
-Understand customer behavior.
-Evaluate lending performance.
-Identify fraud patterns.
-Support strategic decision-making through interactive visualizations.
+    Monitor business performance.
+    Understand customer behavior.
+    Evaluate lending performance.
+    Identify fraud patterns.
+    Support strategic decision-making through interactive visualizations.
 
 
 ## Business Recommendations
 
-Based on the analysis, the following recommendations can support business improvement:
-
-Develop targeted marketing campaigns to increase deposit account adoption.
-Strengthen fraud monitoring for grocery and foreign transactions.
-Incorporate credit score and income level into loan approval processes.
-Provide personalized financial products for the bank's largest customer segments.
-Continuously monitor fraud trends and loan performance using the interactive dashboards. 
+    Based on the analysis, the following recommendations can support business improvement:
+    
+    Develop targeted marketing campaigns to increase deposit account adoption.
+    Strengthen fraud monitoring for grocery and foreign transactions.
+    Incorporate credit score and income level into loan approval processes.
+    Provide personalized financial products for the bank's largest customer segments.
+    Continuously monitor fraud trends and loan performance using the interactive dashboards. 
 
 ## Repository Structure
     Retail-Banking-Performance--Risk-Analytics-dashboard/
