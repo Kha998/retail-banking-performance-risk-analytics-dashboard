@@ -1,22 +1,38 @@
 # Banking Business Performance & Risk Analytics Dashboard
+### Project Type: Business Intelligence & Data Analytics Project
+
+### Tool: Power BI
+
+### Skills: Power BI, Power Query, DAX, Data Modeling, Data Visualization, Business Analytics
 ## Executive Summary
 
-    The Retail Banking Performance Analytics Dashboard is an interactive Business Intelligence solution developed using Power BI to provide a comprehensive view of banking operations. The dashboard integrates customer, transaction, loan, deposit, and fraud data into a centralized reporting system, enabling stakeholders to monitor business performance, understand customer behavior, identify fraud risks, and evaluate loan portfolio performance.
+The Retail Banking Performance Analytics Dashboard is an interactive Business Intelligence solution developed using Power BI to provide a comprehensive view of banking operations. The dashboard integrates customer, transaction, loan, deposit, and fraud data into a centralized reporting system, enabling stakeholders to monitor business performance, understand customer behavior, identify fraud risks, and evaluate loan portfolio performance.
     
-    The project demonstrates how business intelligence can transform raw banking data into actionable insights that support strategic and operational decision-making.
+The project demonstrates how business intelligence can transform raw banking data into actionable insights that support strategic and operational decision-making.
+
 
 
 ## Project Overview
- 	Developed end-to-end data analysis project focuses on developing a Retail Banking Performance Analytics Dashboard using SQL, Power BI. This project built a Power BI dashboard integrating customer, transaction, and loan data to provide insights into customer segmentation, credit risk, fraud detection, and overall business performance.
- 	This project showcases data cleaning, transformation, data modelling and visualization skills across multiple tools to extract valuable business insights
- 	The dashboard enables:
- 	customer segmentation analysis 
- 	credit risk monitoring 
- 	fraud detection 
- 	overall business performance tracking
+
+This project is an interactive Power BI dashboard designed to analyze retail banking performance, customer segmentation, fraud detection, and loan credit risk. It transforms raw banking data into actionable insights to support business decision-making.
+
+## Business Problem
+
+Retail banks generate large volumes of customer, transaction, loan, and fraud data from multiple systems. Without centralized reporting, it is difficult for stakeholders to monitor performance, identify risks, and make timely decisions.
+
+
+## Project Objectives
+  The objectives of this project were to:
+
+Develop an interactive Power BI dashboard to consolidate banking data.
+Monitor key business performance indicators (KPIs).
+Segment customers based on demographic and financial characteristics.
+Analyze transaction patterns and fraud activities.
+Evaluate loan performance and credit risk.
+Provide decision-makers with meaningful business insights through interactive visualizations.
 
 ## Business Questions:
-    This project addresses the following key business questions:
+This project addresses the following key business questions:
      •	How is the overall performance of the bank in terms of customers, transactions, and revenue? 
      •	Which customer segments contribute most to business growth? 
      •	What is the level of credit risk and which customers are likely to default? 
@@ -25,28 +41,24 @@
      •	How can data-driven insights improve decision-making and operational efficiency?
 
 
-## Project Objectives
-    - Build a centralized banking analytics dashboard
-    - Monitor business KPIs and customer activity
-    - Segment customers for better targeting
-    - Analyze loan and credit risk patterns
-    - Detect fraud-related transaction behavior
-    - Support data-driven business strategy
   
 ## Tools & Technologies
-    - Power BI – dashboard development and interactive visualization
-    - Power Query – data cleaning and transformation
-    - DAX – KPI calculations and business measures
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- SQL
+- Excel/CSV
     -
 ## Dataset Overview
 
-    The project combines multiple banking-related data domains, including:
+The project combines multiple banking-related data domains, including:
     
-    - Customer information
-    - Transaction records
-    - Loan details
-    - Credit risk indicators
-    - Fraud-related transaction flags
+ - Customer information
+ - Transaction records
+- Loan details
+- Credit risk indicators
+- Fraud-related transaction flags
     DataSource >> https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset/data
                   https://www.kaggle.com/code/faryalrifaz3374/loan-default-predictio-ml-models-eda/input
                   https://www.kaggle.com/code/abdelazizelserty/credit-card-fraud-detection-dataset/input
@@ -55,60 +67,68 @@
 
 ## Dashboard Pages
 
-    ### 1. Business Performance Overview
-    Provides a high-level summary of total customers, transactions, transaction amount, total loans, fraud transactions, and fraud rate.
-    
-    ### 2. Customer Segmentation Analysis
-    Analyzes customer demographics, deposit behavior, job distribution, age groups, and marital status to identify key customer segments.
-    
-    ### 3. Loan & Credit Risk Dashboard
-    Monitors loan amount, default rate, credit score groups, and loan purpose to identify higher-risk borrowers.
-    
-    ### 4. Fraud Detection Dashboard
-    Examines fraud transaction patterns by category, age group, velocity, and foreign transaction behavior.
+### 1. Business Performance Overview
+- Total Customers
+- Total Transactions
+- Total Loan Amount
+- Fraud Rate
+- Business KPIs
 
-## Key Insights
+### 2. Customer Segmentation
+- Customer Demographics
+- Deposit Analysis
+- Customer Distribution
 
-    - The bank serves over 11K customers with strong transaction activity, indicating healthy operational volume.
-    - Deposit conversion remains below 50%, showing an opportunity to improve product adoption.
-    - The loan default rate is moderately high, suggesting the need for tighter credit risk controls.
-    - Fraud levels are relatively low overall, but transaction velocity and foreign transactions show stronger fraud signals.
-    - Working-age and employed customer groups represent the most active segment for business growth.
-    -
+### 3. Fraud Analysis
+- Fraud Rate
+- Fraud Transactions
+- Transaction Type Analysis
 
-## Business Outcomes
+### 4. Loan & Credit Risk
+- Loan Default Rate
+- Credit Score Analysis
+- Risk Assessment
 
-    Based on the dashboard findings, the bank can:
-    
-    - Improve customer targeting and cross-selling strategies
-    - Increase deposit product adoption among non-deposit customers
-    - Strengthen loan approval and credit scoring policies
-    - Focus fraud monitoring on high-risk transaction behavior
-    - Enable faster and more informed management decisions
 
-## FINAL BUSINESS OUTCOMES 
-    Key Outcomes:
-    •	Improved customer targeting strategy → increase conversion rate 
-    •	Reduced credit risk exposure → better loan portfolio quality 
-    •	Enhanced fraud detection capability → minimize financial loss 
-    •	Enabled data-driven decision making via centralized dashboards
+
+## Business Insights
+
+The dashboard provides several important business insights:
+
+Customer activity is concentrated among individuals aged 25–34, indicating a strong market within younger working-age customers.
+Deposit conversion remains below 50%, suggesting opportunities to expand deposit product adoption.
+Grocery transactions have the highest fraud count, highlighting the need for enhanced fraud monitoring in this category.
+Customers with low income and low credit scores exhibit higher loan default rates, supporting the importance of credit risk assessment.
+Overall fraud activity remains relatively low, indicating stable operational performance while still requiring continuous monitoring.
+
+## Project Outcome
+
+ This project successfully demonstrates the application of Business Intelligence techniques to transform banking data into meaningful insights.
+
+The dashboard provides a centralized reporting solution that enables stakeholders to:
+
+Monitor business performance.
+Understand customer behavior.
+Evaluate lending performance.
+Identify fraud patterns.
+Support strategic decision-making through interactive visualizations.
+
 
 ## Business Recommendations
 
-    - Increase deposit conversion through targeted marketing and personalized financial products  
-    - Leverage customer segmentation for high-impact marketing and cross-selling strategies  
-    - Strengthen credit risk management using improved scoring models and risk-based loan approvals  
-    - Implement early warning systems to proactively manage high-risk customers  
-    - Enhance fraud detection using transaction behavior and real-time monitoring  
-    - Focus fraud prevention efforts on high-risk transaction types and foreign transactions  
-    - Optimize loan strategies to balance risk and profitability  
-    - Enable real-time, data-driven decision making through centralized dashboards  
-## Project Workflow
+Based on the analysis, the following recommendations can support business improvement:
 
-    1. Collected and prepared banking-related datasets
-    2. Cleaned and transformed data using SQL and Power Query
-    3. Built data model for dashboard analysis
-    4. Created KPIs and measures in Power BI using DAX
-    5. Developed interactive dashboards for business, segmentation, risk, and fraud analysis
-    6. Generated insights and recommendations for decision-making
+Develop targeted marketing campaigns to increase deposit account adoption.
+Strengthen fraud monitoring for grocery and foreign transactions.
+Incorporate credit score and income level into loan approval processes.
+Provide personalized financial products for the bank's largest customer segments.
+Continuously monitor fraud trends and loan performance using the interactive dashboards. 
 
+## Repository Structure
+Retail-Banking-Performance--Risk-Analytics-dashboard/
+│
+├── README.md
+├── Retail_Banking_Analysis_Dashboard.pbix
+├── Data/
+├── Images/
+└── Business_Report.pdf
